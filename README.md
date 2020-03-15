@@ -1,5 +1,8 @@
 # web-pastel
+  
+![image](https://user-images.githubusercontent.com/35188271/76704054-aba85300-6719-11ea-8b4a-7e0306211b7d.png)
 
+  
 1. `홈페이지 제작` (AWS ec2 홈페이지 제작) / AWS DNS 등록 (새로운 홈페이지명)  `https://naver.com.홈페이지명.com`  
  ps) 로드벨런싱 제외, Throttle 제외, HW spec 제외  
  
